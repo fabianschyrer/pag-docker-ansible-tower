@@ -1,0 +1,1 @@
+docker kill pag-ansible-tower && docker rm pag-ansible-tower

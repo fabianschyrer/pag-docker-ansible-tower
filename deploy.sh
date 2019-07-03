@@ -1,0 +1,1 @@
+docker run -d -p 443:443 -v pgdata:/var/lib/postgresql/9.6/main --name pag-ansible-tower ybalt/ansible-tower
